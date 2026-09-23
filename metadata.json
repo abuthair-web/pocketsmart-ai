@@ -1,0 +1,7 @@
+{
+  "name": "PocketSmart AI",
+  "description": "Plan Smart. Spend Smart. AI-powered budget planning and interior design recommendation assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
